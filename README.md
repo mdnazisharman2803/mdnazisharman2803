@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdnazisharman2803&theme=neon-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnazisharman2803&theme=monokai&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdnazisharman2803&theme=radical&show_icons=true)
