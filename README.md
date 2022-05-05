@@ -6,3 +6,7 @@ I am currently a 3rd Year undergraduate student at NSUT East Campus from ECE bra
 - 🌱 I’m currently exploring more about Flutter.
 - 💬 Ask me about Flutter App Development, Open Source Contribution and Git.
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdnazisharman2803&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdnazisharman2803&theme=radical&show_icons=true)
+
