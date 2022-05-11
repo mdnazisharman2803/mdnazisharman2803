@@ -10,3 +10,6 @@ I am currently a 3rd Year undergraduate student at NSUT East Campus from ECE bra
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdnazisharman2803&theme=radical&show_icons=true)
 
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnazisharman2803&layout=compact&theme=react&count_private=true" />
+</div>
