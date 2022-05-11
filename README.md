@@ -14,7 +14,7 @@ I am currently a 3rd Year undergraduate student at NSUT East Campus from ECE bra
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnazisharman2803&layout=compact&theme=react&count_private=true" /width=498>
 </div>
 
-### Hey😃, your visit is counted below
+### Hey😃, you're counted  in visitors list. 
 
   <img src="https://profile-counter.glitch.me/mdnazisharman2803/count.svg" />
 </div>
