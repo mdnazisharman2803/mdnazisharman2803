@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Md Nazish Arman
 
-I am currently a 3rd Year undergraduate student at NSUT East Campus from ECE branch
+I am currently a final Year undergraduate student at NSUT East Campus from ECE branch
 
 - 🔭 I’m currently working on Flutter App Development.
 - 🌱 I’m currently exploring more about Flutter.
